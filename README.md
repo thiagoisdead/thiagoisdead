@@ -1,8 +1,8 @@
-<h1 align="left">Hi, im Thiago Navarro!</h1>
+<h1 align="left">Meu nome é Thiago Navarro, e sou um dev focado em Java e JavaScript!</h1>
 
 ###
 
-<p align="center">My knowledge in programming, applied to projects in my portfolio!<br>https://thiagoisdead.github.io/projects/</p>
+<p align="center">Meu conhecimento em programação, aplicado no meu portfólio!<br>https://thiagoisdead.github.io/projects/</p>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
 </div>
 
 ###
@@ -68,6 +70,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiagoisdead&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=thiagoisdead&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/thiagoisdead/thiagoisdead/output/snake.svg" alt="Snake animation" />
 
 ###
 
