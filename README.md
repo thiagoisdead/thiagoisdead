@@ -51,7 +51,7 @@
   <a href="mailto:thiagonavarroprofissional@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/thiago-navarro-152a58278/" target="_blank">
+  <a href="https://www.linkedin.com/in/thiago-navarro-7a37b7333/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/5511930625029" target="_blank">
