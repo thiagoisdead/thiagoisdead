@@ -1,10 +1,4 @@
-<h1 align="left">Meu nome é Thiago Navarro, e sou um dev focado React e Java!</h1>
-
-###
-
-<p align="center">Meu conhecimento em programação, aplicado no meu portfólio!<br>https://thiagoisdead.github.io/projects/</p>
-
-###
+<h1 align="left">Meu nome é Thiago Navarro, e sou um dev focado React, Next.Js e Node</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
