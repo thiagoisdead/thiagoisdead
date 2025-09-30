@@ -1,4 +1,4 @@
-<h1 align="left">Meu nome é Thiago Navarro, e sou um dev focado React, Next.Js e Node</h1>
+<h1 align="left">Meu nome é Thiago Navarro, e sou um dev focado React, Next.Js e Node!</h1>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
