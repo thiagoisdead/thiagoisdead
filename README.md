@@ -1,4 +1,4 @@
-<h1 align="left">My name is Thiago Navarro, and I'm a Software Engineer, from Bra(s)il!</h1>
+<h1 align="left">Thiago Navarro</h1>
 
 ###
 
